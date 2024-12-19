@@ -1,0 +1,7 @@
+E:\Code\NotesApp\publish\NotesApp.exe
+E:\Code\NotesApp\publish\appsettings.Development.json
+E:\Code\NotesApp\publish\appsettings.json
+E:\Code\NotesApp\publish\NotesApp.dll
+E:\Code\NotesApp\publish\NotesApp.deps.json
+E:\Code\NotesApp\publish\NotesApp.runtimeconfig.json
+E:\Code\NotesApp\publish\NotesApp.pdb
